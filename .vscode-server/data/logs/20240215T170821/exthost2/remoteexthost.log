@@ -1,0 +1,323 @@
+2024-02-15 17:35:24.909 [info] Extension host with pid 8662 started
+2024-02-15 17:35:24.920 [info] Lock '/home/llama/.vscode-server/data/User/workspaceStorage/fc6a7ce78d57cb8f7ee4d76db0e3fcf7/vscode.lock': Lock acquired.
+2024-02-15 17:35:25.036 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-15 17:35:25.037 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onLanguage:git-commit'
+2024-02-15 17:35:25.105 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-15 17:35:25.106 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-15 17:35:25.351 [info] Eager extensions activated
+2024-02-15 17:35:25.352 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-15 17:35:25.352 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-15 17:35:26.045 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.046 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:26.326 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-15 17:35:26.326 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-15 17:35:27.047 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.048 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.049 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.049 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.049 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.050 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.050 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.051 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.051 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.051 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.052 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.052 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.052 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.053 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.053 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.053 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.053 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.054 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.054 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.054 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.054 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.055 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.055 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.055 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.055 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.056 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/llama/.vscode-server/bin/31c37ee8f63491495ac49e43b8544550fbae4533/extensions/git/dist/main.js:2:993939)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-02-15 17:35:27.195 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-02-15 17:35:29.105 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-02-15 17:35:29.105 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-02-15 17:35:29.516 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'

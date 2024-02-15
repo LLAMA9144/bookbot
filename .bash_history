@@ -442,3 +442,13 @@ cd ..
 ls
 /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /home/llama/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/bash/envVars.txt
 /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+git.add .
+git version
+git add .
+git commit -m "update readme with a description"
+git status
+git init
+git add .
+git commit -m "update readme with a description"
+git push origin main
+/home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /home/llama/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/bash/envVars.txt

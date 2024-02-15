@@ -1,0 +1,11 @@
+2024-02-15 17:35:29.819 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-02-15 17:35:29.819 [info] Experiment 'pythonREPLSmartSend' is active
+2024-02-15 17:35:29.819 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-02-15 17:35:29.819 [info] Experiment 'pythonTestAdapter' is active
+2024-02-15 17:35:29.819 [info] Default formatter is set to null for workspace /home/llama
+2024-02-15 17:35:29.819 [info] Test server listening.
+2024-02-15 17:35:29.819 [info] Python interpreter path: ./.pyenv/versions/3.12.1/bin/python
+2024-02-15 17:35:29.972 [info] > ./.pyenv/versions/3.12.1/bin/python ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariables.py
+2024-02-15 17:35:29.972 [info] shell: bash
+2024-02-15 17:35:30.005 [info] Send text to terminal: /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /home/llama/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/bash/envVars.txt
+2024-02-15 17:35:30.976 [info] Starting Pylance language server.

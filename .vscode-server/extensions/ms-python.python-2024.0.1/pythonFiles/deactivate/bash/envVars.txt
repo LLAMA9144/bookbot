@@ -35,5 +35,5 @@ HOSTTYPE=x86_64
 ENVMAN_LOAD=loaded
 PULSE_SERVER=unix:/mnt/wslg/PulseServer
 TERM_PROGRAM=vscode
-VSCODE_IPC_HOOK_CLI=/run/user/1000/vscode-ipc-fd12a6af-f718-44f0-ada5-c4671354d5f9.sock
+VSCODE_IPC_HOOK_CLI=/run/user/1000/vscode-ipc-daa3cd77-9869-4f0a-88e1-f5225c91e871.sock
 _=/home/llama/.pyenv/versions/3.12.1/bin/python

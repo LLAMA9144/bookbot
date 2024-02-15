@@ -1,0 +1,58 @@
+2024-02-15 17:35:25.467 [info] Log level: Info
+2024-02-15 17:35:25.467 [info] Validating found git in: "git"
+2024-02-15 17:35:25.467 [info] Using git "2.34.1" from "git"
+2024-02-15 17:35:25.467 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-15 17:35:25.467 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2024-02-15 17:35:25.467 [info] Open repository: /home/llama
+2024-02-15 17:35:25.469 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-15 17:35:25.469 [info] fatal: this operation must be run in a work tree
+2024-02-15 17:35:25.470 [info] > git config --get commit.template [9ms]
+2024-02-15 17:35:25.481 [info] No remotes found in the git config file.
+2024-02-15 17:35:25.482 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-15 17:35:25.487 [info] > git rev-parse --show-toplevel [11ms]
+2024-02-15 17:35:25.496 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-15 17:35:25.501 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-15 17:35:25.508 [info] > git rev-parse --show-toplevel [0ms]
+2024-02-15 17:35:25.513 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-15 17:35:25.518 [info] Open repository: /home/llama/.pyenv
+2024-02-15 17:35:25.533 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-15 17:35:25.534 [info] > git config --get commit.template [10ms]
+2024-02-15 17:35:25.546 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-15 17:35:25.546 [info] > git rev-parse --show-toplevel [8ms]
+2024-02-15 17:35:25.552 [warning] ENOENT: no such file or directory, open '/home/llama/.pyenv/.git/refs/remotes/origin/master'
+2024-02-15 17:35:25.557 [info] > git rev-parse refs/remotes/origin/master [5ms]
+2024-02-15 17:35:25.564 [info] > git status -z -uall [77ms]
+2024-02-15 17:35:25.574 [info] > git rev-parse --show-toplevel [18ms]
+2024-02-15 17:35:25.584 [info] > git config --get commit.template [5ms]
+2024-02-15 17:35:25.584 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-15 17:35:25.589 [info] No remotes found in the git config file.
+2024-02-15 17:35:25.594 [info] > git status -z -uall [32ms]
+2024-02-15 17:35:25.612 [info] > git rev-parse --show-toplevel [17ms]
+2024-02-15 17:35:25.616 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [27ms]
+2024-02-15 17:35:25.624 [info] > git config --get commit.template [13ms]
+2024-02-15 17:35:25.633 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-15 17:35:25.639 [warning] ENOENT: no such file or directory, open '/home/llama/.pyenv/.git/refs/remotes/origin/master'
+2024-02-15 17:35:25.640 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-02-15 17:35:25.696 [info] > git status -z -uall [74ms]
+2024-02-15 17:35:25.696 [info] > git status -z -uall [50ms]
+2024-02-15 17:35:25.952 [info] > git show --textconv :workspace/github.com/LLAMA/bookbot/.git/COMMIT_EDITMSG [7ms]
+2024-02-15 17:35:25.955 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/.git/COMMIT_EDITMSG [3ms]
+2024-02-15 17:35:26.042 [info] > git check-ignore -v -z --stdin [5ms]
+2024-02-15 17:35:26.046 [info] > git check-ignore -v -z --stdin [5ms]
+2024-02-15 17:35:28.125 [info] > git show --textconv :.gitignore [5ms]
+2024-02-15 17:35:28.127 [info] > git ls-files --stage -- /home/llama/.gitignore [3ms]
+2024-02-15 17:35:28.133 [info] > git cat-file -s 27b64bd894c6b36676ad7e66786415ad5e85ea94 [1ms]
+2024-02-15 17:35:29.483 [info] > git show --textconv :workspace/github.com/LLAMA/bookbot/main.py [9ms]
+2024-02-15 17:35:29.812 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/main.py [332ms]
+2024-02-15 17:35:36.012 [info] > git config --get commit.template [1ms]
+2024-02-15 17:35:36.019 [info] No remotes found in the git config file.
+2024-02-15 17:35:36.020 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-15 17:35:36.068 [info] > git status -z -uall [43ms]
+2024-02-15 17:35:41.086 [info] No remotes found in the git config file.
+2024-02-15 17:35:41.087 [info] > git config --get commit.template [6ms]
+2024-02-15 17:35:41.087 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-15 17:35:41.129 [info] > git status -z -uall [37ms]
+2024-02-15 17:35:46.141 [info] > git config --get commit.template [1ms]
+2024-02-15 17:35:46.146 [info] No remotes found in the git config file.
+2024-02-15 17:35:46.147 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-15 17:35:46.188 [info] > git status -z -uall [37ms]

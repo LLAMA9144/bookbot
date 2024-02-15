@@ -8,3 +8,8 @@
 2024-02-15 17:08:22.553 [info] [127.0.0.1][fb2496f4][ManagementConnection] New connection established.
 2024-02-15 17:08:23.321 [info] [127.0.0.1][3eabb792][ExtensionHostConnection] New connection established.
 2024-02-15 17:08:23.326 [info] [127.0.0.1][3eabb792][ExtensionHostConnection] <859> Launched Extension Host Process.
+2024-02-15 17:35:21.463 [info] [127.0.0.1][fb2496f4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-15 17:35:21.541 [info] [127.0.0.1][3eabb792][ExtensionHostConnection] <859> Extension Host Process exited with code: 0, signal: null.
+2024-02-15 17:35:24.292 [info] [127.0.0.1][4a0fc0f7][ManagementConnection] New connection established.
+2024-02-15 17:35:24.566 [info] [127.0.0.1][197cde85][ExtensionHostConnection] New connection established.
+2024-02-15 17:35:24.570 [info] [127.0.0.1][197cde85][ExtensionHostConnection] <8662> Launched Extension Host Process.
