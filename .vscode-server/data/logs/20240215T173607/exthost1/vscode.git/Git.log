@@ -1,0 +1,97 @@
+2024-02-15 17:36:10.451 [info] Log level: Info
+2024-02-15 17:36:10.451 [info] Validating found git in: "git"
+2024-02-15 17:36:10.451 [info] Using git "2.34.1" from "git"
+2024-02-15 17:36:10.451 [info] > git rev-parse --show-toplevel [126ms]
+2024-02-15 17:36:10.451 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-02-15 17:36:10.451 [info] Open repository: /home/llama
+2024-02-15 17:36:10.451 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-15 17:36:10.451 [info] > git config --get commit.template [9ms]
+2024-02-15 17:36:10.476 [info] No remotes found in the git config file.
+2024-02-15 17:36:10.480 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-02-15 17:36:10.487 [info] > git rev-parse --git-dir --git-common-dir [19ms]
+2024-02-15 17:36:10.492 [info] Open repository: /home/llama/workspace/github.com/LLAMA/bookbot
+2024-02-15 17:36:10.521 [info] > git rev-parse --show-toplevel [18ms]
+2024-02-15 17:36:10.522 [info] > git config --get commit.template [23ms]
+2024-02-15 17:36:10.543 [info] > git status -z -uall [57ms]
+2024-02-15 17:36:10.543 [info] > git rev-parse --show-toplevel [15ms]
+2024-02-15 17:36:10.551 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2024-02-15 17:36:11.034 [info] > git rev-parse --show-toplevel [485ms]
+2024-02-15 17:36:11.074 [info] > git check-ignore -v -z --stdin [22ms]
+2024-02-15 17:36:11.075 [info] > git check-ignore -v -z --stdin [15ms]
+2024-02-15 17:36:11.076 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [58ms]
+2024-02-15 17:36:11.086 [info] > git config --get commit.template [78ms]
+2024-02-15 17:36:11.090 [info] > git config --local branch.master.vscode-merge-base [4ms]
+2024-02-15 17:36:11.090 [warning] git config failed: Failed to execute git
+2024-02-15 17:36:11.098 [info] > git rev-parse --show-toplevel [27ms]
+2024-02-15 17:36:11.112 [info] No remotes found in the git config file.
+2024-02-15 17:36:11.121 [info] > git status -z -uall [16ms]
+2024-02-15 17:36:11.122 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-02-15 17:36:11.125 [info] Open repository: /home/llama/.pyenv
+2024-02-15 17:36:11.127 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [16ms]
+2024-02-15 17:36:11.143 [info] > git reflog refs/heads/master --grep-reflog=branch: Created from *. [46ms]
+2024-02-15 17:36:11.182 [info] > git config --get commit.template [14ms]
+2024-02-15 17:36:11.182 [info] > git rev-parse --show-toplevel [20ms]
+2024-02-15 17:36:11.182 [info] > git config --get commit.template [26ms]
+2024-02-15 17:36:11.183 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [32ms]
+2024-02-15 17:36:11.183 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-02-15 17:36:11.205 [info] > git status -z -uall [69ms]
+2024-02-15 17:36:11.205 [info] > git rev-parse --show-toplevel [16ms]
+2024-02-15 17:36:11.294 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [90ms]
+2024-02-15 17:36:11.294 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [97ms]
+2024-02-15 17:36:11.308 [warning] ENOENT: no such file or directory, open '/home/llama/.pyenv/.git/refs/remotes/origin/master'
+2024-02-15 17:36:11.311 [info] > git rev-parse --show-toplevel [34ms]
+2024-02-15 17:36:11.670 [info] > git rev-parse refs/remotes/origin/master [362ms]
+2024-02-15 17:36:11.680 [info] > git status -z -uall [6ms]
+2024-02-15 17:36:11.687 [info] > git rev-parse --show-toplevel [92ms]
+2024-02-15 17:36:11.712 [info] > git status -z -uall [19ms]
+2024-02-15 17:36:11.713 [info] > git rev-parse --show-toplevel [14ms]
+2024-02-15 17:36:11.751 [info] > git show --textconv :main.py [29ms]
+2024-02-15 17:36:11.751 [info] > git check-ignore -v -z --stdin [14ms]
+2024-02-15 17:36:11.751 [info] > git check-ignore -v -z --stdin [9ms]
+2024-02-15 17:36:11.768 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/main.py [40ms]
+2024-02-15 17:36:11.775 [info] > git config --get commit.template [66ms]
+2024-02-15 17:36:11.778 [info] > git cat-file -s 5df64dc405e0feef8c311049f22718829c0b71c4 [4ms]
+2024-02-15 17:36:11.778 [info] > git merge-base refs/heads/master refs/remotes/origin/master [28ms]
+2024-02-15 17:36:11.796 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [11ms]
+2024-02-15 17:36:11.799 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-02-15 17:36:11.806 [warning] ENOENT: no such file or directory, open '/home/llama/.pyenv/.git/refs/remotes/origin/master'
+2024-02-15 17:36:11.811 [info] > git rev-parse refs/remotes/origin/master [5ms]
+2024-02-15 17:36:11.821 [info] > git status -z -uall [4ms]
+2024-02-15 17:36:13.987 [info] > git config --get commit.template [5ms]
+2024-02-15 17:36:13.988 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2024-02-15 17:36:13.992 [warning] ENOENT: no such file or directory, open '/home/llama/.pyenv/.git/refs/remotes/origin/master'
+2024-02-15 17:36:13.993 [info] > git rev-parse refs/remotes/origin/master [0ms]
+2024-02-15 17:36:14.000 [info] > git status -z -uall [3ms]
+2024-02-15 17:36:18.016 [info] > git config --get commit.template [2ms]
+2024-02-15 17:36:18.021 [info] No remotes found in the git config file.
+2024-02-15 17:36:18.022 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-15 17:36:18.060 [info] > git status -z -uall [33ms]
+2024-02-15 17:36:20.518 [info] > git check-ignore -v -z --stdin [6ms]
+2024-02-15 17:36:20.519 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-15 17:36:20.519 [info] > git check-ignore -v -z --stdin [13ms]
+2024-02-15 17:36:21.547 [info] > git check-ignore -v -z --stdin [1ms]
+2024-02-15 17:36:21.679 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/books/frankenstein.txt [1ms]
+2024-02-15 17:36:21.685 [info] > git show --textconv :books/frankenstein.txt [12ms]
+2024-02-15 17:36:21.685 [info] > git cat-file -s 858d6c91314d23a16ebb5b29d3ef1bb92e24d074 [1ms]
+2024-02-15 17:36:23.151 [info] > git config --get commit.template [0ms]
+2024-02-15 17:36:23.157 [info] No remotes found in the git config file.
+2024-02-15 17:36:23.157 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2024-02-15 17:36:23.197 [info] > git status -z -uall [34ms]
+2024-02-15 17:36:24.995 [info] > git show --textconv :main.py [6ms]
+2024-02-15 17:36:24.996 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/main.py [2ms]
+2024-02-15 17:36:25.002 [info] > git cat-file -s 5df64dc405e0feef8c311049f22718829c0b71c4 [1ms]
+2024-02-15 17:36:27.681 [info] > git show --textconv :main.py [6ms]
+2024-02-15 17:36:27.682 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/main.py [1ms]
+2024-02-15 17:36:27.687 [info] > git cat-file -s 5df64dc405e0feef8c311049f22718829c0b71c4 [1ms]
+2024-02-15 17:36:28.259 [info] > git config --get commit.template [1ms]
+2024-02-15 17:36:28.265 [info] No remotes found in the git config file.
+2024-02-15 17:36:28.266 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-15 17:36:28.304 [info] > git status -z -uall [32ms]
+2024-02-15 17:36:33.363 [info] > git config --get commit.template [1ms]
+2024-02-15 17:36:33.369 [info] No remotes found in the git config file.
+2024-02-15 17:36:33.369 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2024-02-15 17:36:33.405 [info] > git status -z -uall [31ms]
+2024-02-15 17:36:38.472 [info] No remotes found in the git config file.
+2024-02-15 17:36:38.472 [info] > git config --get commit.template [6ms]
+2024-02-15 17:36:38.472 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-15 17:36:38.508 [info] > git status -z -uall [31ms]

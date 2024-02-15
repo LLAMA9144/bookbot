@@ -1,0 +1,15 @@
+2024-02-15 17:36:11.170 [info] (Client) Pylance async client (2024.2.2) started with python extension (2024.0.1)
+2024-02-15 17:36:11.687 [info] [Info  - 5:36:11 PM] (10744) Pylance language server 2024.2.2 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-02-15 17:36:11.699 [info] [Info  - 5:36:11 PM] (10744) Server root directory: file:///home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-02-15 17:36:11.712 [info] [Info  - 5:36:11 PM] (10744) Starting service instance "llama"
+2024-02-15 17:36:11.831 [info] [Info  - 5:36:11 PM] (10744) Setting pythonPath for service "llama": "/home/llama/.pyenv/versions/3.12.1/bin/python"
+2024-02-15 17:36:11.831 [info] [Info  - 5:36:11 PM] (10744) Setting environmentName for service "llama": "3.12.1 (global)"
+2024-02-15 17:36:11.860 [info] [Info  - 5:36:11 PM] (10744) Assuming Python version 3.12
+2024-02-15 17:36:11.919 [info] [Info  - 5:36:11 PM] (10744) Found 1 source file
+2024-02-15 17:36:12.135 [info] [Info  - 5:36:12 PM] (10744) Background analysis(1) root directory: file:///home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-02-15 17:36:12.138 [info] [Info  - 5:36:12 PM] (10744) Background analysis(1) started
+2024-02-15 17:36:12.422 [info] [Info  - 5:36:12 PM] (10744) Indexer background runner(2) root directory: file:///home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (index)
+2024-02-15 17:36:12.423 [info] [Info  - 5:36:12 PM] (10744) Indexing(2) started
+2024-02-15 17:36:12.917 [info] [Info  - 5:36:12 PM] (10744) scanned(2) 13 files over 1 exec env
+2024-02-15 17:36:13.368 [info] [Info  - 5:36:13 PM] (10744) indexed(2) 3 files over 1 exec env
+2024-02-15 17:36:13.393 [info] [Info  - 5:36:13 PM] (10744) Indexing finished(2).
