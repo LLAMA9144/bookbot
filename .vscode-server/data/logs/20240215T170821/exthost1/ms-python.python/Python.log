@@ -1,0 +1,19 @@
+2024-02-15 17:08:24.567 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-02-15 17:08:24.567 [info] Experiment 'pythonREPLSmartSend' is active
+2024-02-15 17:08:24.567 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-02-15 17:08:24.567 [info] Experiment 'pythonTestAdapter' is active
+2024-02-15 17:08:24.702 [info] Default formatter is set to null for workspace /home/llama
+2024-02-15 17:08:25.174 [info] Test server listening.
+2024-02-15 17:08:25.175 [info] Python interpreter path: ./.pyenv/versions/3.12.1/bin/python
+2024-02-15 17:08:25.907 [info] > ./.pyenv/versions/3.12.1/bin/python ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariables.py
+2024-02-15 17:08:25.907 [info] shell: bash
+2024-02-15 17:08:25.996 [info] Send text to terminal: /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /home/llama/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/bash/envVars.txt
+2024-02-15 17:08:26.906 [info] Starting Pylance language server.
+2024-02-15 17:17:34.524 [info] Send text to terminal: /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 17:17:34.659 [info] Discover tests for workspace name: llama - uri: /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 17:19:12.562 [info] Send text to terminal: /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 17:19:12.804 [info] Discover tests for workspace name: llama - uri: /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 17:19:16.329 [info] Send text to terminal: /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 17:19:16.575 [info] Discover tests for workspace name: llama - uri: /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 17:19:40.815 [info] Send text to terminal: /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 17:19:41.062 [info] Discover tests for workspace name: llama - uri: /home/llama/workspace/github.com/LLAMA/bookbot/main.py

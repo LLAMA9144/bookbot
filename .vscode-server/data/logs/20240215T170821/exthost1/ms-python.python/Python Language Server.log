@@ -1,0 +1,37 @@
+2024-02-15 17:08:26.336 [info] (Client) Pylance async client (2024.2.2) started with python extension (2024.0.1)
+2024-02-15 17:08:26.891 [info] [Info  - 5:08:26 PM] (1190) Pylance language server 2024.2.2 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-02-15 17:08:26.892 [info] [Info  - 5:08:26 PM] (1190) Server root directory: file:///home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-02-15 17:08:26.892 [info] [Info  - 5:08:26 PM] (1190) Starting service instance "llama"
+2024-02-15 17:08:26.935 [info] [Info  - 5:08:26 PM] (1190) Setting pythonPath for service "llama": "/home/llama/.pyenv/versions/3.12.1/bin/python"
+2024-02-15 17:08:26.935 [info] [Info  - 5:08:26 PM] (1190) Setting environmentName for service "llama": "3.12.1 (global)"
+2024-02-15 17:08:26.966 [info] [Info  - 5:08:26 PM] (1190) Assuming Python version 3.12
+2024-02-15 17:08:27.032 [info] [Info  - 5:08:27 PM] (1190) Found 1 source file
+2024-02-15 17:08:27.430 [info] [Info  - 5:08:27 PM] (1190) Background analysis(1) root directory: file:///home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist
+2024-02-15 17:08:27.432 [info] [Info  - 5:08:27 PM] (1190) Background analysis(1) started
+2024-02-15 17:08:27.581 [info] [Info  - 5:08:27 PM] (1190) Indexer background runner(2) root directory: file:///home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (index)
+2024-02-15 17:08:27.581 [info] [Info  - 5:08:27 PM] (1190) Indexing(2) started
+2024-02-15 17:08:28.125 [info] [Info  - 5:08:28 PM] (1190) scanned(2) 13 files over 1 exec env
+2024-02-15 17:08:28.555 [info] [Info  - 5:08:28 PM] (1190) indexed(2) 3 files over 1 exec env
+2024-02-15 17:08:28.584 [info] [Info  - 5:08:28 PM] (1190) Indexing finished(2).
+2024-02-15 17:24:46.725 [info] [Info  - 5:24:46 PM] (1190) Setting pythonPath for service "llama": "/home/llama/.pyenv/versions/3.12.1/bin/python"
+2024-02-15 17:24:46.725 [info] [Info  - 5:24:46 PM] (1190) Setting environmentName for service "llama": "3.12.1 (global)"
+2024-02-15 17:24:46.750 [info] [Info  - 5:24:46 PM] (1190) Assuming Python version 3.12
+2024-02-15 17:24:46.799 [info] [Info  - 5:24:46 PM] (1190) Found 1 source file
+2024-02-15 17:24:46.907 [info] [Info  - 5:24:46 PM] (1190) Setting pythonPath for service "llama": "/home/llama/.pyenv/versions/3.12.1/bin/python"
+2024-02-15 17:24:46.907 [info] [Info  - 5:24:46 PM] (1190) Setting environmentName for service "llama": "3.12.1 (global)"
+2024-02-15 17:24:46.939 [info] [Info  - 5:24:46 PM] (1190) Assuming Python version 3.12
+2024-02-15 17:24:46.989 [info] [Info  - 5:24:46 PM] (1190) Found 1 source file
+2024-02-15 17:24:47.327 [info] [Info  - 5:24:47 PM] (1190) Indexer background runner(3) root directory: file:///home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (index)
+2024-02-15 17:24:47.327 [info] [Info  - 5:24:47 PM] (1190) Indexing(3) started
+2024-02-15 17:24:47.814 [info] [Info  - 5:24:47 PM] (1190) scanned(3) 13 files over 1 exec env
+2024-02-15 17:24:48.247 [info] [Info  - 5:24:48 PM] (1190) indexed(3) 3 files over 1 exec env
+2024-02-15 17:24:48.270 [info] [Info  - 5:24:48 PM] (1190) Indexing finished(3).
+2024-02-15 17:26:55.890 [info] [Info  - 5:26:55 PM] (1190) Setting pythonPath for service "llama": "/home/llama/.pyenv/versions/3.12.1/bin/python"
+2024-02-15 17:26:55.890 [info] [Info  - 5:26:55 PM] (1190) Setting environmentName for service "llama": "3.12.1 (global)"
+2024-02-15 17:26:55.915 [info] [Info  - 5:26:55 PM] (1190) Assuming Python version 3.12
+2024-02-15 17:26:55.961 [info] [Info  - 5:26:55 PM] (1190) Found 1 source file
+2024-02-15 17:26:56.397 [info] [Info  - 5:26:56 PM] (1190) Indexer background runner(4) root directory: file:///home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2/dist (index)
+2024-02-15 17:26:56.397 [info] [Info  - 5:26:56 PM] (1190) Indexing(4) started
+2024-02-15 17:26:56.744 [info] [Info  - 5:26:56 PM] (1190) scanned(4) 13 files over 1 exec env
+2024-02-15 17:26:57.194 [info] [Info  - 5:26:57 PM] (1190) indexed(4) 3 files over 1 exec env
+2024-02-15 17:26:57.218 [info] [Info  - 5:26:57 PM] (1190) Indexing finished(4).

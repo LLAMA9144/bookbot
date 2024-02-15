@@ -1,0 +1,66 @@
+2024-02-14 23:34:41.312 [info] 
+
+
+
+
+2024-02-14 23:34:41.323 [info] Extension host agent started.
+2024-02-14 23:34:41.626 [info] [127.0.0.1][0507b27e][ManagementConnection] New connection established.
+2024-02-14 23:34:41.795 [info] [127.0.0.1][f9e75906][ExtensionHostConnection] New connection established.
+2024-02-14 23:34:41.798 [info] [127.0.0.1][f9e75906][ExtensionHostConnection] <549> Launched Extension Host Process.
+2024-02-14 23:35:38.138 [info] Getting Manifest... ms-python.python
+2024-02-14 23:35:38.286 [info] Installing extension: ms-python.python
+2024-02-14 23:35:41.420 [info] Getting Manifest... ms-python.vscode-pylance
+2024-02-14 23:35:41.532 [info] Getting Manifest... ms-python.debugpy
+2024-02-14 23:35:41.676 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2024-02-14 23:35:41.677 [info] Installing extension: ms-python.debugpy ms-python.python
+2024-02-14 23:35:43.816 [warning] Extension signature verification failed with error 'ENOENT': ms-python.debugpy
+2024-02-14 23:35:44.514 [info] Extracted extension to file:///home/llama/.vscode-server/extensions/ms-python.debugpy-2024.0.0-linux-x64: ms-python.debugpy
+2024-02-14 23:35:44.525 [info] Renamed to /home/llama/.vscode-server/extensions/ms-python.debugpy-2024.0.0-linux-x64
+2024-02-14 23:35:44.527 [info] Extracting extension completed. ms-python.debugpy
+2024-02-14 23:35:45.976 [warning] Extension signature verification failed with error 'ENOENT': ms-python.python
+2024-02-14 23:35:48.296 [info] Extracted extension to file:///home/llama/.vscode-server/extensions/ms-python.python-2024.0.1: ms-python.python
+2024-02-14 23:35:48.310 [info] Renamed to /home/llama/.vscode-server/extensions/ms-python.python-2024.0.1
+2024-02-14 23:35:48.313 [info] Extracting extension completed. ms-python.python
+2024-02-14 23:35:51.640 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2024-02-14 23:35:55.967 [info] Extracted extension to file:///home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.1: ms-python.vscode-pylance
+2024-02-14 23:35:55.988 [info] Renamed to /home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.1
+2024-02-14 23:35:55.991 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-02-14 23:35:55.999 [info] Extension installed successfully: ms-python.debugpy
+2024-02-14 23:35:55.999 [info] Extension installed successfully: ms-python.python
+2024-02-14 23:35:55.999 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-02-14 23:40:49.014 [info] [127.0.0.1][0507b27e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-14 23:40:49.046 [info] [127.0.0.1][f9e75906][ExtensionHostConnection] <549> Extension Host Process exited with code: 0, signal: null.
+2024-02-14 23:40:51.847 [info] [127.0.0.1][7904aac0][ManagementConnection] New connection established.
+2024-02-14 23:40:52.012 [info] [127.0.0.1][3422fe22][ExtensionHostConnection] New connection established.
+2024-02-14 23:40:52.016 [info] [127.0.0.1][3422fe22][ExtensionHostConnection] <3012> Launched Extension Host Process.
+2024-02-14 23:41:47.904 [info] [127.0.0.1][7904aac0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-14 23:41:47.928 [info] [127.0.0.1][3422fe22][ExtensionHostConnection] <3012> Extension Host Process exited with code: 0, signal: null.
+2024-02-14 23:41:49.545 [info] [127.0.0.1][6c9f0a60][ManagementConnection] New connection established.
+2024-02-14 23:41:49.943 [info] [127.0.0.1][3bf30416][ExtensionHostConnection] New connection established.
+2024-02-14 23:41:49.952 [info] [127.0.0.1][3bf30416][ExtensionHostConnection] <3381> Launched Extension Host Process.
+2024-02-14 23:45:36.794 [info] [127.0.0.1][6c9f0a60][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-14 23:45:36.818 [info] [127.0.0.1][3bf30416][ExtensionHostConnection] <3381> Extension Host Process exited with code: 0, signal: null.
+2024-02-14 23:45:38.490 [info] [127.0.0.1][c00b29b9][ManagementConnection] New connection established.
+2024-02-14 23:45:38.871 [info] [127.0.0.1][f95bd010][ExtensionHostConnection] New connection established.
+2024-02-14 23:45:38.881 [info] [127.0.0.1][f95bd010][ExtensionHostConnection] <4694> Launched Extension Host Process.
+2024-02-15 00:18:19.211 [info] [127.0.0.1][c00b29b9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-15 00:18:19.253 [info] [127.0.0.1][f95bd010][ExtensionHostConnection] <4694> Extension Host Process exited with code: 0, signal: null.
+2024-02-15 00:18:20.851 [info] [127.0.0.1][dade1227][ManagementConnection] New connection established.
+2024-02-15 00:18:21.170 [info] [127.0.0.1][a869c235][ExtensionHostConnection] New connection established.
+2024-02-15 00:18:21.176 [info] [127.0.0.1][a869c235][ExtensionHostConnection] <33173> Launched Extension Host Process.
+2024-02-15 00:18:26.075 [info] Getting Manifest... ms-python.vscode-pylance
+2024-02-15 00:18:26.180 [info] Installing extension: ms-python.vscode-pylance
+2024-02-15 00:18:27.075 [info] Getting Manifest... ms-python.python
+2024-02-15 00:18:30.231 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2024-02-15 00:18:34.933 [info] Extracted extension to file:///home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2: ms-python.vscode-pylance
+2024-02-15 00:18:34.974 [info] Renamed to /home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2
+2024-02-15 00:18:34.977 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-02-15 00:18:34.995 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-02-15 00:18:35.001 [info] Marked extension as uninstalled ms-python.vscode-pylance-2024.2.1
+2024-02-15 00:19:47.853 [info] [127.0.0.1][dade1227][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-15 00:19:47.887 [info] [127.0.0.1][a869c235][ExtensionHostConnection] <33173> Extension Host Process exited with code: 0, signal: null.
+2024-02-15 00:19:49.531 [info] [127.0.0.1][e492c3cf][ManagementConnection] New connection established.
+2024-02-15 00:19:49.762 [info] [127.0.0.1][22763ebe][ExtensionHostConnection] New connection established.
+2024-02-15 00:19:49.784 [info] [127.0.0.1][22763ebe][ExtensionHostConnection] <34300> Launched Extension Host Process.
+2024-02-15 00:44:21.844 [info] [127.0.0.1][e492c3cf][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-15 00:44:21.925 [info] [127.0.0.1][22763ebe][ExtensionHostConnection] <34300> Extension Host Process exited with code: 0, signal: null.

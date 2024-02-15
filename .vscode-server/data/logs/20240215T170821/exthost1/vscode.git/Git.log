@@ -1,0 +1,129 @@
+2024-02-15 17:08:25.858 [info] Log level: Info
+2024-02-15 17:08:25.858 [info] Validating found git in: "git"
+2024-02-15 17:08:25.858 [info] Using git "2.34.1" from "git"
+2024-02-15 17:08:25.858 [info] > git rev-parse --show-toplevel [113ms]
+2024-02-15 17:08:25.858 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 17:08:25.858 [info] > git rev-parse --show-toplevel [39ms]
+2024-02-15 17:08:25.870 [info] > git rev-parse --git-dir --git-common-dir [8ms]
+2024-02-15 17:08:25.880 [info] Open repository: /home/llama/workspace/github.com/LLAMA/bookbot
+2024-02-15 17:08:25.911 [info] > git rev-parse --show-toplevel [19ms]
+2024-02-15 17:08:25.911 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 17:08:25.912 [info] > git config --get commit.template [24ms]
+2024-02-15 17:08:25.928 [info] > git rev-parse --show-toplevel [9ms]
+2024-02-15 17:08:25.928 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 17:08:25.935 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2024-02-15 17:08:25.936 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-15 17:08:25.936 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 17:08:25.954 [info] > git rev-parse --show-toplevel [10ms]
+2024-02-15 17:08:25.963 [info] > git status -z -uall [9ms]
+2024-02-15 17:08:25.996 [info] > git rev-parse --git-dir --git-common-dir [35ms]
+2024-02-15 17:08:26.001 [info] Open repository: /home/llama/.pyenv
+2024-02-15 17:08:26.014 [info] > git config --get commit.template [23ms]
+2024-02-15 17:08:26.016 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-15 17:08:26.016 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 17:08:26.016 [info] > git config --get commit.template [10ms]
+2024-02-15 17:08:26.037 [info] > git rev-parse --show-toplevel [9ms]
+2024-02-15 17:08:26.037 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 17:08:26.038 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+2024-02-15 17:08:26.047 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2024-02-15 17:08:26.047 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-15 17:08:26.047 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 17:08:26.051 [warning] ENOENT: no such file or directory, open '/home/llama/.pyenv/.git/refs/remotes/origin/master'
+2024-02-15 17:08:26.061 [info] > git rev-parse refs/remotes/origin/master [10ms]
+2024-02-15 17:08:26.066 [info] > git status -z -uall [5ms]
+2024-02-15 17:08:26.068 [info] > git rev-parse --show-toplevel [13ms]
+2024-02-15 17:08:26.068 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 17:08:26.075 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-15 17:08:26.075 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 17:08:26.223 [info] > git status -z -uall [158ms]
+2024-02-15 17:08:26.237 [info] > git config --get commit.template [4ms]
+2024-02-15 17:08:26.245 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-15 17:08:26.250 [warning] ENOENT: no such file or directory, open '/home/llama/.pyenv/.git/refs/remotes/origin/master'
+2024-02-15 17:08:26.250 [info] > git rev-parse refs/remotes/origin/master [0ms]
+2024-02-15 17:08:26.277 [info] > git status -z -uall [20ms]
+2024-02-15 17:08:26.453 [info] > git show --textconv :main.py [7ms]
+2024-02-15 17:08:26.454 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/main.py [2ms]
+2024-02-15 17:08:26.550 [info] > git check-ignore -v -z --stdin [9ms]
+2024-02-15 17:08:26.551 [info] > git check-ignore -v -z --stdin [3ms]
+2024-02-15 17:17:35.631 [info] > git config --get commit.template [5ms]
+2024-02-15 17:17:35.632 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-15 17:17:35.638 [info] > git status -z -uall [1ms]
+2024-02-15 17:19:13.706 [info] > git config --get commit.template [5ms]
+2024-02-15 17:19:13.706 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 17:19:13.712 [info] > git status -z -uall [1ms]
+2024-02-15 17:19:18.723 [info] > git config --get commit.template [6ms]
+2024-02-15 17:19:18.723 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 17:19:18.729 [info] > git status -z -uall [1ms]
+2024-02-15 17:19:41.957 [info] > git config --get commit.template [5ms]
+2024-02-15 17:19:41.957 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 17:19:41.962 [info] > git status -z -uall [1ms]
+2024-02-15 17:22:55.941 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-15 17:22:55.941 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 17:23:05.616 [info] > git show --textconv :main.py [6ms]
+2024-02-15 17:23:05.618 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/main.py [2ms]
+2024-02-15 17:23:05.958 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-15 17:23:05.958 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 17:23:06.899 [info] > git show --textconv :main.py [5ms]
+2024-02-15 17:23:06.900 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/main.py [1ms]
+2024-02-15 17:23:12.758 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-15 17:23:12.758 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 17:23:21.332 [info] > git show --textconv :main.py [5ms]
+2024-02-15 17:23:21.332 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/main.py [1ms]
+2024-02-15 17:23:22.236 [info] > git check-ignore -v -z --stdin [0ms]
+2024-02-15 17:23:23.218 [info] > git show --textconv :books/frankenstein.txt [4ms]
+2024-02-15 17:23:23.219 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/books/frankenstein.txt [1ms]
+2024-02-15 17:23:25.256 [info] > git show --textconv :main.py [4ms]
+2024-02-15 17:23:25.257 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/main.py [1ms]
+2024-02-15 17:23:34.530 [info] > git show --textconv :books/frankenstein.txt [4ms]
+2024-02-15 17:23:34.531 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/books/frankenstein.txt [1ms]
+2024-02-15 17:23:35.898 [info] > git show --textconv :main.py [5ms]
+2024-02-15 17:23:35.899 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/main.py [1ms]
+2024-02-15 17:24:24.808 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-15 17:24:24.808 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 17:24:26.483 [info] > git show --textconv :main.py [5ms]
+2024-02-15 17:24:26.484 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/main.py [1ms]
+2024-02-15 17:24:26.899 [info] > git rev-parse --show-toplevel [0ms]
+2024-02-15 17:24:26.899 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 17:24:26.924 [info] > git check-ignore -v -z --stdin [5ms]
+2024-02-15 17:24:26.925 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-15 17:24:46.578 [info] > git merge-base refs/heads/main refs/remotes/origin/main [7ms]
+2024-02-15 17:24:46.584 [info] > git merge-base refs/heads/master refs/remotes/origin/master [6ms]
+2024-02-15 17:24:46.590 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [7ms]
+2024-02-15 17:24:46.590 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [1ms]
+2024-02-15 17:24:46.697 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-15 17:24:46.697 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 17:24:46.706 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-15 17:24:46.706 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 17:25:00.439 [info] > git add -A -- . [11ms]
+2024-02-15 17:25:00.798 [info] > git show --textconv :.git/COMMIT_EDITMSG [5ms]
+2024-02-15 17:25:00.799 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/.git/COMMIT_EDITMSG [1ms]
+2024-02-15 17:25:01.070 [info] > git check-ignore -v -z --stdin [0ms]
+2024-02-15 17:25:01.652 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/.git/COMMIT_EDITMSG [1ms]
+2024-02-15 17:25:01.660 [info] > git show --textconv :.git/COMMIT_EDITMSG [1ms]
+2024-02-15 17:25:21.127 [info] > git -c user.useConfigOnly=true commit --quiet [20683ms]
+2024-02-15 17:25:21.127 [info] Aborting commit due to empty commit message.
+2024-02-15 17:25:21.144 [info] > git config --get commit.template [9ms]
+2024-02-15 17:25:21.149 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-02-15 17:25:21.159 [info] > git status -z -uall [2ms]
+2024-02-15 17:25:21.524 [info] > git show --textconv :main.py [6ms]
+2024-02-15 17:25:21.524 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/main.py [1ms]
+2024-02-15 17:25:21.529 [info] > git cat-file -s 5df64dc405e0feef8c311049f22718829c0b71c4 [1ms]
+2024-02-15 17:26:55.742 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-15 17:26:55.763 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2024-02-15 17:26:55.774 [info] Open repository: /home/llama
+2024-02-15 17:26:55.785 [info] No remotes found in the git config file.
+2024-02-15 17:26:55.785 [info] > git config --get commit.template [5ms]
+2024-02-15 17:26:55.786 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-15 17:26:55.786 [warning] No such branch: master.
+2024-02-15 17:26:55.851 [info] > git status -z -uall [61ms] (cancelled)
+2024-02-15 17:26:56.354 [info] > git check-ignore -v -z --stdin [6ms]
+2024-02-15 17:26:56.355 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-15 17:27:12.602 [info] > git config --get commit.template [2ms]
+2024-02-15 17:27:12.609 [info] No remotes found in the git config file.
+2024-02-15 17:27:12.610 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-15 17:27:12.610 [warning] No such branch: master.
+2024-02-15 17:27:13.553 [info] > git status -z -uall [935ms] (cancelled)
+2024-02-15 17:27:14.917 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-15 17:27:17.122 [info] > git check-ignore -v -z --stdin [1ms]
+2024-02-15 17:27:17.682 [info] > git check-ignore -v -z --stdin [1ms]
+2024-02-15 17:27:31.003 [info] > git check-ignore -v -z --stdin [0ms]

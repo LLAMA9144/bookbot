@@ -1,0 +1,43 @@
+2024-02-15 00:20:19.366 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-02-15 00:20:19.366 [info] Experiment 'pythonREPLSmartSend' is active
+2024-02-15 00:20:19.366 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-02-15 00:20:19.366 [info] Experiment 'pythonTestAdapter' is active
+2024-02-15 00:20:19.366 [info] Default formatter is set to null for workspace /home/llama
+2024-02-15 00:20:19.366 [info] Test server listening.
+2024-02-15 00:20:19.388 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 00:20:19.389 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 00:20:19.389 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 00:20:19.389 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 00:20:19.389 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 00:20:19.389 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-02-15 00:20:19.389 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-02-15 00:20:19.389 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-02-15 00:20:19.439 [info] > ./.pyenv/shims/python -I ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py
+2024-02-15 00:20:19.551 [info] Python interpreter path: ./.pyenv/versions/3.12.1/bin/python
+2024-02-15 00:20:19.729 [info] > ./.pyenv/versions/3.12.1/bin/python ./.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariables.py
+2024-02-15 00:20:19.729 [info] shell: bash
+2024-02-15 00:20:19.754 [info] Send text to terminal: /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /home/llama/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/bash/envVars.txt
+2024-02-15 00:20:20.621 [info] Starting Pylance language server.
+2024-02-15 00:23:13.428 [info] Discover tests for workspace name: llama - uri: /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:26:28.300 [info] Discover tests for workspace name: llama - uri: /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:26:53.968 [info] Send text to terminal: /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:28:08.478 [info] Send text to terminal: /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:28:08.721 [info] Discover tests for workspace name: llama - uri: /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:28:28.213 [info] Send text to terminal: /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:28:28.458 [info] Discover tests for workspace name: llama - uri: /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:31:38.898 [info] Send text to terminal: /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:31:39.142 [info] Discover tests for workspace name: llama - uri: /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:33:39.098 [info] Send text to terminal: /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:33:39.343 [info] Discover tests for workspace name: llama - uri: /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:34:31.004 [info] Discover tests for workspace name: llama - uri: /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:36:12.166 [info] Send text to terminal: /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:36:12.411 [info] Discover tests for workspace name: llama - uri: /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:36:32.896 [info] Send text to terminal: /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:36:33.141 [info] Discover tests for workspace name: llama - uri: /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:42:43.521 [info] Send text to terminal: /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:42:43.760 [info] Discover tests for workspace name: llama - uri: /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:43:25.619 [info] Send text to terminal: /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:43:25.862 [info] Discover tests for workspace name: llama - uri: /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:44:08.761 [info] Send text to terminal: /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:44:08.984 [info] Discover tests for workspace name: llama - uri: /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:44:20.952 [info] Discover tests for workspace name: llama - uri: /home/llama/workspace/github.com/LLAMA/bookbot/main.py

@@ -1,0 +1,23 @@
+2024-02-14 23:35:56.924 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-02-14 23:35:56.924 [info] Experiment 'pythonREPLSmartSend' is active
+2024-02-14 23:35:56.924 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-02-14 23:35:56.924 [info] Experiment 'pythonTestAdapter' is active
+2024-02-14 23:35:56.924 [info] Test server listening.
+2024-02-14 23:35:56.934 [info] > python -c "import sys;print(sys.executable)"
+2024-02-14 23:35:56.981 [error] [Error: Command failed: python -c "import sys;print(sys.executable)"
+/bin/sh: 1: python: not found
+
+	at ChildProcess.exithandler (node:child_process:420:12)
+	at ChildProcess.emit (node:events:526:35)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:514:28)
+	at Pipe.<anonymous> (node:net:323:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'python -c "import sys;print(sys.executable)"'
+}
+2024-02-14 23:35:57.062 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-02-14 23:35:57.062 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-02-14 23:35:58.027 [info] Starting Pylance language server.

@@ -1,0 +1,23 @@
+2024-02-14 23:41:53.340 [info] Log level: Info
+2024-02-14 23:41:53.340 [info] Validating found git in: "git"
+2024-02-14 23:41:53.340 [info] Using git "2.34.1" from "git"
+2024-02-14 23:41:53.340 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-14 23:41:53.340 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-14 23:42:19.875 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-14 23:42:19.876 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-14 23:44:58.780 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-14 23:44:58.784 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-14 23:44:58.794 [info] Open repository: /home/llama/workspace/github.com/LLAMA/bookbot
+2024-02-14 23:44:58.801 [info] > git config --get commit.template [1ms]
+2024-02-14 23:44:58.810 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-02-14 23:44:58.811 [warning] No such branch: master.
+2024-02-14 23:44:58.815 [info] > git status -z -uall [1ms]
+2024-02-14 23:44:58.827 [info] > git config --get commit.template [4ms]
+2024-02-14 23:44:58.829 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-02-14 23:44:58.829 [warning] No such branch: master.
+2024-02-14 23:44:58.833 [info] > git status -z -uall [1ms]
+2024-02-14 23:45:00.362 [info] > git config --get commit.template [1ms]
+2024-02-14 23:45:00.367 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-14 23:45:00.370 [warning] ENOENT: no such file or directory, open '/home/llama/workspace/github.com/LLAMA/bookbot/.git/refs/remotes/origin/main'
+2024-02-14 23:45:00.370 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-02-14 23:45:00.373 [info] > git status -z -uall [0ms]

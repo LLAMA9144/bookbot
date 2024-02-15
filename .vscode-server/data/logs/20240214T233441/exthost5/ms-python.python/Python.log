@@ -1,0 +1,22 @@
+2024-02-15 00:18:32.974 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-02-15 00:18:32.974 [info] Experiment 'pythonREPLSmartSend' is active
+2024-02-15 00:18:32.974 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-02-15 00:18:32.974 [info] Experiment 'pythonTestAdapter' is active
+2024-02-15 00:18:32.974 [info] Default formatter is set to null for workspace /home/llama/workspace
+2024-02-15 00:18:32.974 [info] Test server listening.
+2024-02-15 00:18:32.974 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 00:18:33.013 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 00:18:33.013 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 00:18:33.013 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 00:18:33.013 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 00:18:33.013 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 00:18:33.013 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 00:18:33.013 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-15 00:18:33.013 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-02-15 00:18:33.013 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-02-15 00:18:33.013 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-02-15 00:18:33.018 [info] Python interpreter path: ~/.pyenv/versions/3.12.1/bin/python
+2024-02-15 00:18:33.172 [info] > ~/.pyenv/versions/3.12.1/bin/python ~/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariables.py
+2024-02-15 00:18:33.172 [info] shell: bash
+2024-02-15 00:18:33.201 [info] Send text to terminal: /home/llama/.pyenv/versions/3.12.1/bin/python /home/llama/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /home/llama/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/bash/envVars.txt
+2024-02-15 00:18:34.063 [info] Starting Pylance language server.

@@ -1,0 +1,24 @@
+2024-02-15 00:18:33.616 [info] (Client) Pylance async client (2024.2.1) started with python extension (2024.0.1)
+2024-02-15 00:18:34.042 [info] [Info  - 12:18:34 AM] (33671) Pylance language server 2024.2.1 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-02-15 00:18:34.042 [info] [Info  - 12:18:34 AM] (33671) Server root directory: file:///home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.1/dist
+2024-02-15 00:18:34.042 [info] [Info  - 12:18:34 AM] (33671) Starting service instance "workspace"
+2024-02-15 00:18:34.091 [info] [Info  - 12:18:34 AM] (33671) Setting pythonPath for service "workspace": "/home/llama/.pyenv/versions/3.12.1/bin/python"
+2024-02-15 00:18:34.091 [info] [Info  - 12:18:34 AM] (33671) Setting environmentName for service "workspace": "3.12.1 (global)"
+2024-02-15 00:18:34.116 [info] [Info  - 12:18:34 AM] (33671) Assuming Python version 3.12
+2024-02-15 00:18:34.169 [info] [Info  - 12:18:34 AM] (33671) Found 1 source file
+2024-02-15 00:18:34.535 [info] [Info  - 12:18:34 AM] (33671) Background analysis(1) root directory: file:///home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.1/dist
+2024-02-15 00:18:34.583 [info] [Info  - 12:18:34 AM] (33671) Background analysis(1) started
+2024-02-15 00:18:34.686 [info] [Info  - 12:18:34 AM] (33671) Indexer background runner(2) root directory: file:///home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.1/dist (index)
+2024-02-15 00:18:34.686 [info] [Info  - 12:18:34 AM] (33671) Indexing(2) started
+2024-02-15 00:18:35.124 [info] [Info  - 12:18:35 AM] (33671) scanned(2) 13 files over 1 exec env
+2024-02-15 00:18:35.687 [info] [Info  - 12:18:35 AM] (33671) indexed(2) 3 files over 1 exec env
+2024-02-15 00:18:35.716 [info] [Info  - 12:18:35 AM] (33671) Indexing finished(2).
+2024-02-15 00:18:55.635 [info] [Info  - 12:18:55 AM] (33671) Setting pythonPath for service "workspace": "/home/llama/.pyenv/versions/3.12.1/bin/python"
+2024-02-15 00:18:55.635 [info] [Info  - 12:18:55 AM] (33671) Setting environmentName for service "workspace": "3.12.1 (global)"
+2024-02-15 00:18:55.659 [info] [Info  - 12:18:55 AM] (33671) Assuming Python version 3.12
+2024-02-15 00:18:55.699 [info] [Info  - 12:18:55 AM] (33671) Found 1 source file
+2024-02-15 00:18:56.148 [info] [Info  - 12:18:56 AM] (33671) Indexer background runner(3) root directory: file:///home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.1/dist (index)
+2024-02-15 00:18:56.148 [info] [Info  - 12:18:56 AM] (33671) Indexing(3) started
+2024-02-15 00:18:56.479 [info] [Info  - 12:18:56 AM] (33671) scanned(3) 13 files over 1 exec env
+2024-02-15 00:18:56.958 [info] [Info  - 12:18:56 AM] (33671) indexed(3) 3 files over 1 exec env
+2024-02-15 00:18:56.984 [info] [Info  - 12:18:56 AM] (33671) Indexing finished(3).

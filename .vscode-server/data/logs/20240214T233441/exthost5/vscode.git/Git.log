@@ -1,0 +1,29 @@
+2024-02-15 00:18:22.028 [info] Log level: Info
+2024-02-15 00:18:22.028 [info] Validating found git in: "git"
+2024-02-15 00:18:22.028 [info] Using git "2.34.1" from "git"
+2024-02-15 00:18:22.028 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-15 00:18:22.028 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 00:18:22.028 [info] > git rev-parse --show-toplevel [30ms]
+2024-02-15 00:18:22.028 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 00:18:32.496 [info] > git rev-parse --show-toplevel [80ms]
+2024-02-15 00:18:32.541 [info] > git rev-parse --git-dir --git-common-dir [39ms]
+2024-02-15 00:18:32.550 [info] Open repository: /home/llama/workspace/github.com/LLAMA/bookbot
+2024-02-15 00:18:32.946 [info] > git config --get commit.template [11ms]
+2024-02-15 00:18:32.971 [info] > git show --textconv :main.py [7ms]
+2024-02-15 00:18:32.972 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/main.py [3ms]
+2024-02-15 00:18:32.973 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+2024-02-15 00:18:33.000 [info] > git status -z -uall [2ms]
+2024-02-15 00:18:33.016 [info] > git config --get commit.template [4ms]
+2024-02-15 00:18:33.099 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [77ms]
+2024-02-15 00:18:33.111 [info] > git status -z -uall [3ms]
+2024-02-15 00:18:33.452 [info] > git check-ignore -v -z --stdin [1ms]
+2024-02-15 00:18:55.556 [info] > git merge-base refs/heads/main refs/remotes/origin/main [1ms]
+2024-02-15 00:18:55.562 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [1ms]
+2024-02-15 00:18:55.620 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-15 00:18:55.620 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 00:18:58.349 [info] > git show --textconv HEAD:books/frankenstein.txt [6ms]
+2024-02-15 00:18:58.349 [info] > git ls-tree -l HEAD -- /home/llama/workspace/github.com/LLAMA/bookbot/books/frankenstein.txt [2ms]
+2024-02-15 00:19:01.521 [info] > git show --textconv :main.py [5ms]
+2024-02-15 00:19:01.522 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/main.py [1ms]
+2024-02-15 00:19:02.819 [info] > git show --textconv :books/frankenstein.txt [5ms]
+2024-02-15 00:19:02.820 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/books/frankenstein.txt [1ms]

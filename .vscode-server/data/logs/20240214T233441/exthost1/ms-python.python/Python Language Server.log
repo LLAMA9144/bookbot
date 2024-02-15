@@ -1,0 +1,10 @@
+2024-02-14 23:35:57.574 [info] (Client) Pylance async client (2024.2.1) started with python extension (2024.0.1)
+2024-02-14 23:35:58.013 [info] [Info  - 11:35:57 PM] (843) Pylance language server 2024.2.1 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-02-14 23:35:58.013 [info] [Info  - 11:35:58 PM] (843) Server root directory: file:///home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.1/dist
+2024-02-14 23:35:58.032 [info] [Info  - 11:35:58 PM] (843) Starting service instance "<default>"
+2024-02-14 23:35:58.066 [info] [Info  - 11:35:58 PM] (843) Setting environmentName for service "<default>": "python"
+2024-02-14 23:35:58.113 [info] [Info  - 11:35:58 PM] (843) No source files found.
+2024-02-14 23:35:58.161 [info] [Info  - 11:35:58 PM] (843) Setting environmentName for service "<default>": "python"
+2024-02-14 23:35:58.192 [info] [Info  - 11:35:58 PM] (843) No source files found.
+2024-02-14 23:35:58.489 [info] [Info  - 11:35:58 PM] (843) Background analysis(1) root directory: file:///home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.1/dist
+2024-02-14 23:35:58.489 [info] [Info  - 11:35:58 PM] (843) Background analysis(1) started

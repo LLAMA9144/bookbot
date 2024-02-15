@@ -1,0 +1,38 @@
+2024-02-14 23:58:06.142 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-02-14 23:58:06.142 [info] Experiment 'pythonREPLSmartSend' is active
+2024-02-14 23:58:06.142 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-02-14 23:58:06.142 [info] Experiment 'pythonTestAdapter' is active
+2024-02-14 23:58:06.143 [info] Default formatter is set to null for workspace /home/llama/workspace/github.com/LLAMA/bookbot
+2024-02-14 23:58:06.143 [info] Test server listening.
+2024-02-14 23:58:06.159 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-14 23:58:06.159 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-14 23:58:06.160 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-02-14 23:58:06.160 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-02-14 23:58:06.160 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-02-14 23:58:06.167 [info] > python -c "import sys;print(sys.executable)"
+2024-02-14 23:58:06.206 [error] [Error: Command failed: python -c "import sys;print(sys.executable)"
+/bin/sh: 1: python: not found
+
+	at ChildProcess.exithandler (node:child_process:420:12)
+	at ChildProcess.emit (node:events:526:35)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:514:28)
+	at Pipe.<anonymous> (node:net:323:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'python -c "import sys;print(sys.executable)"'
+}
+2024-02-14 23:58:06.220 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-14 23:58:06.220 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-02-14 23:58:07.319 [info] Starting Pylance language server.
+2024-02-14 23:58:29.583 [info] Discover tests for workspace name: bookbot - uri: /home/llama/workspace/github.com/LLAMA/bookbot/main.py
+2024-02-15 00:01:46.910 [info] > conda info --json
+2024-02-15 00:01:46.923 [info] Found: /bin/python3 --> /bin/python3.10
+2024-02-15 00:01:46.923 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-02-15 00:01:46.936 [info] > ~/.pyenv/versions/3.12.1/bin/python -I ~/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py
+2024-02-15 00:01:46.938 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-02-15 00:01:46.938 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-02-15 00:01:47.083 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py
+2024-02-15 00:01:47.107 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.0.1/pythonFiles/interpreterInfo.py

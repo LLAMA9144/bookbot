@@ -1,0 +1,95 @@
+2024-02-15 00:19:50.607 [info] Log level: Info
+2024-02-15 00:19:50.607 [info] Validating found git in: "git"
+2024-02-15 00:19:50.607 [info] Using git "2.34.1" from "git"
+2024-02-15 00:19:50.607 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-15 00:19:50.607 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 00:19:50.607 [info] > git rev-parse --show-toplevel [26ms]
+2024-02-15 00:19:50.607 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 00:19:50.608 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-15 00:19:50.608 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 00:19:50.613 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-15 00:19:50.613 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 00:19:50.618 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-15 00:19:50.624 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-15 00:19:50.636 [info] Open repository: /home/llama/.pyenv
+2024-02-15 00:19:50.647 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-15 00:19:50.647 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 00:19:50.648 [info] > git config --get commit.template [4ms]
+2024-02-15 00:19:50.657 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-15 00:19:50.658 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-15 00:19:50.658 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 00:19:50.661 [warning] ENOENT: no such file or directory, open '/home/llama/.pyenv/.git/refs/remotes/origin/master'
+2024-02-15 00:19:50.666 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-15 00:19:50.666 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 00:19:50.666 [info] > git rev-parse refs/remotes/origin/master [5ms]
+2024-02-15 00:19:50.679 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-15 00:19:50.679 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 00:19:50.683 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-15 00:19:50.683 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 00:19:50.692 [info] > git status -z -uall [21ms]
+2024-02-15 00:19:50.708 [info] > git config --get commit.template [1ms]
+2024-02-15 00:19:50.714 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-15 00:19:50.718 [warning] ENOENT: no such file or directory, open '/home/llama/.pyenv/.git/refs/remotes/origin/master'
+2024-02-15 00:19:50.720 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-02-15 00:19:50.749 [info] > git status -z -uall [25ms]
+2024-02-15 00:19:51.183 [info] > git check-ignore -v -z --stdin [1ms]
+2024-02-15 00:19:52.494 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-15 00:19:52.494 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 00:20:18.920 [info] > git rev-parse --show-toplevel [65ms]
+2024-02-15 00:20:18.976 [info] > git rev-parse --git-dir --git-common-dir [47ms]
+2024-02-15 00:20:18.982 [info] Open repository: /home/llama/workspace/github.com/LLAMA/bookbot
+2024-02-15 00:20:19.328 [info] > git config --get commit.template [338ms]
+2024-02-15 00:20:19.364 [info] > git show --textconv :main.py [5ms]
+2024-02-15 00:20:19.365 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [21ms]
+2024-02-15 00:20:19.367 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/main.py [3ms]
+2024-02-15 00:20:19.377 [info] > git status -z -uall [2ms]
+2024-02-15 00:20:19.391 [info] > git config --get commit.template [3ms]
+2024-02-15 00:20:19.405 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 00:20:19.417 [info] > git status -z -uall [1ms]
+2024-02-15 00:20:19.852 [info] > git check-ignore -v -z --stdin [8ms]
+2024-02-15 00:20:19.853 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-15 00:23:14.320 [info] > git config --get commit.template [6ms]
+2024-02-15 00:23:14.321 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-15 00:23:14.327 [info] > git status -z -uall [1ms]
+2024-02-15 00:26:29.192 [info] > git config --get commit.template [5ms]
+2024-02-15 00:26:29.193 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 00:26:29.198 [info] > git status -z -uall [1ms]
+2024-02-15 00:28:09.541 [info] > git config --get commit.template [5ms]
+2024-02-15 00:28:09.541 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 00:28:09.547 [info] > git status -z -uall [1ms]
+2024-02-15 00:28:29.356 [info] > git config --get commit.template [1ms]
+2024-02-15 00:28:29.362 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2024-02-15 00:28:29.367 [info] > git status -z -uall [1ms]
+2024-02-15 00:31:40.040 [info] > git config --get commit.template [1ms]
+2024-02-15 00:31:40.045 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 00:31:40.050 [info] > git status -z -uall [1ms]
+2024-02-15 00:33:40.266 [info] > git config --get commit.template [11ms]
+2024-02-15 00:33:40.266 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 00:33:40.273 [info] > git status -z -uall [1ms]
+2024-02-15 00:33:53.059 [info] > git rev-parse --show-toplevel [0ms]
+2024-02-15 00:33:53.059 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 00:34:20.029 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-15 00:34:20.029 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-15 00:34:28.303 [info] > git show --textconv :main.py [7ms]
+2024-02-15 00:34:28.304 [info] > git ls-files --stage -- /home/llama/workspace/github.com/LLAMA/bookbot/main.py [1ms]
+2024-02-15 00:34:31.815 [info] > git config --get commit.template [4ms]
+2024-02-15 00:34:31.815 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 00:34:31.821 [info] > git status -z -uall [1ms]
+2024-02-15 00:36:13.311 [info] > git config --get commit.template [5ms]
+2024-02-15 00:36:13.311 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 00:36:13.317 [info] > git status -z -uall [1ms]
+2024-02-15 00:36:33.968 [info] > git config --get commit.template [6ms]
+2024-02-15 00:36:33.968 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 00:36:33.975 [info] > git status -z -uall [2ms]
+2024-02-15 00:42:44.665 [info] > git config --get commit.template [5ms]
+2024-02-15 00:42:44.666 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 00:42:44.672 [info] > git status -z -uall [1ms]
+2024-02-15 00:43:26.763 [info] > git config --get commit.template [5ms]
+2024-02-15 00:43:26.764 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 00:43:26.771 [info] > git status -z -uall [1ms]
+2024-02-15 00:44:09.906 [info] > git config --get commit.template [5ms]
+2024-02-15 00:44:09.906 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 00:44:09.911 [info] > git status -z -uall [1ms]
+2024-02-15 00:44:21.787 [info] > git config --get commit.template [6ms]
+2024-02-15 00:44:21.787 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 00:44:21.793 [info] > git status -z -uall [1ms]

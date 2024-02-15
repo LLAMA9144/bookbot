@@ -1,0 +1,9 @@
+[credential "https://github.com"]
+	helper = 
+	helper = !/home/llama/.local/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/home/llama/.local/bin/gh auth git-credential
+[user]
+	email = slayer.browne1@gmail.com
+	name = LLAMA9144

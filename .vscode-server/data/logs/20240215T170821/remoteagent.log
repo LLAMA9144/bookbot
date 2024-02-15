@@ -1,0 +1,10 @@
+2024-02-15 17:08:21.961 [info] 
+
+
+
+
+2024-02-15 17:08:21.979 [info] Extension host agent started.
+2024-02-15 17:08:22.050 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.1
+2024-02-15 17:08:22.553 [info] [127.0.0.1][fb2496f4][ManagementConnection] New connection established.
+2024-02-15 17:08:23.321 [info] [127.0.0.1][3eabb792][ExtensionHostConnection] New connection established.
+2024-02-15 17:08:23.326 [info] [127.0.0.1][3eabb792][ExtensionHostConnection] <859> Launched Extension Host Process.

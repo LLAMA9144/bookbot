@@ -1,0 +1,18 @@
+2024-02-14 23:17:36.002 [info] 
+
+
+
+
+2024-02-14 23:17:36.002 [info] Extension host agent started.
+2024-02-14 23:17:36.002 [info] Started initializing default profile extensions in extensions installation folder. file:///home/llama/.vscode-server/extensions
+2024-02-14 23:17:36.017 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/llama/.vscode-server/extensions
+2024-02-14 23:17:36.165 [info] [127.0.0.1][d99608ce][ManagementConnection] New connection established.
+2024-02-14 23:17:36.370 [info] [127.0.0.1][16116a11][ExtensionHostConnection] New connection established.
+2024-02-14 23:17:36.393 [info] [127.0.0.1][16116a11][ExtensionHostConnection] <591> Launched Extension Host Process.
+2024-02-14 23:19:23.946 [info] [127.0.0.1][d99608ce][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-14 23:19:23.965 [info] [127.0.0.1][16116a11][ExtensionHostConnection] <591> Extension Host Process exited with code: 0, signal: null.
+2024-02-14 23:19:26.776 [info] [127.0.0.1][c5daad60][ManagementConnection] New connection established.
+2024-02-14 23:19:27.103 [info] [127.0.0.1][6cf6fa51][ExtensionHostConnection] New connection established.
+2024-02-14 23:19:27.120 [info] [127.0.0.1][6cf6fa51][ExtensionHostConnection] <963> Launched Extension Host Process.
+2024-02-14 23:20:02.489 [info] [127.0.0.1][c5daad60][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-14 23:20:02.518 [info] [127.0.0.1][6cf6fa51][ExtensionHostConnection] <963> Extension Host Process exited with code: 0, signal: null.

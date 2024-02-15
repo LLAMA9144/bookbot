@@ -1,0 +1,13 @@
+2024-02-14 23:58:06.864 [info] (Client) Pylance async client (2024.2.1) started with python extension (2024.0.1)
+2024-02-14 23:58:07.294 [info] [Info  - 11:58:07 PM] (26712) Pylance language server 2024.2.1 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-02-14 23:58:07.294 [info] [Info  - 11:58:07 PM] (26712) Server root directory: file:///home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.1/dist
+2024-02-14 23:58:07.299 [info] [Info  - 11:58:07 PM] (26712) Starting service instance "bookbot"
+2024-02-14 23:58:07.347 [info] [Info  - 11:58:07 PM] (26712) Setting environmentName for service "bookbot": "python"
+2024-02-14 23:58:07.397 [info] [Info  - 11:58:07 PM] (26712) Found 1 source file
+2024-02-14 23:58:07.765 [info] [Info  - 11:58:07 PM] (26712) Background analysis(1) root directory: file:///home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.1/dist
+2024-02-14 23:58:07.805 [info] [Info  - 11:58:07 PM] (26712) Background analysis(1) started
+2024-02-14 23:58:07.874 [info] [Info  - 11:58:07 PM] (26712) Indexer background runner(2) root directory: file:///home/llama/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.1/dist (index)
+2024-02-14 23:58:07.874 [info] [Info  - 11:58:07 PM] (26712) Indexing(2) started
+2024-02-14 23:58:08.274 [info] [Info  - 11:58:08 PM] (26712) scanned(2) 43 files over 1 exec env
+2024-02-14 23:58:09.389 [info] [Info  - 11:58:09 PM] (26712) indexed(2) 20 files over 1 exec env
+2024-02-14 23:58:09.429 [info] [Info  - 11:58:09 PM] (26712) Indexing finished(2).
